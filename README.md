@@ -6,7 +6,7 @@
 [![Twitter: quanghd96](https://img.shields.io/twitter/follow/quanghd96?style=social)](https://twitter.com/quanghd96)
 [![Linkedin: quanghd96](https://img.shields.io/badge/-quanghd96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quanghd96/)](https://www.linkedin.com/in/quanghd96/)
 [![GitHub quanghd96](https://img.shields.io/github/followers/quanghd96?label=follow&style=social)](https://github.com/quanghd96)
-![Static Badge](https://img.shields.io/badge/Strava--orange?style=flat-square&logo=Strava&logoColor=white&label=Strava&labelColor=orange&color=orange&link=https%3A%2F%2Fstrava.com%2Fathletes%2F116086868)
+[![Static Badge](https://img.shields.io/badge/Strava--orange?style=flat-square&logo=Strava&logoColor=white&label=Strava&labelColor=orange&color=orange&link=https%3A%2F%2Fstrava.com%2Fathletes%2F116086868)](https://strava.com/athletes/116086868)
 
 
 
